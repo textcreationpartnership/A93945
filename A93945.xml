@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the Earle of Strafford to his lady in Ireland, a little before his death: May 11. 1641. Together vvith a speech of Mr. Plydell Esquire concerning the church; Feb. 8. 1641.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93945</idno>
+            <idno type="STC">Wing S5787</idno>
+            <idno type="STC">Thomason E208_15</idno>
+            <idno type="STC">Thomason E208_16</idno>
+            <idno type="STC">ESTC R17770</idno>
+            <idno type="EEBO-CITATION">99860266</idno>
+            <idno type="PROQUEST">99860266</idno>
+            <idno type="VID">157729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E208[15], 37:E208[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the Earle of Strafford to his lady in Ireland, a little before his death: May 11. 1641. Together vvith a speech of Mr. Plydell Esquire concerning the church; Feb. 8. 1641.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+                  <author>Pleydell, William, b. 1601 or 2.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno Domini, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"The speech of Master Plydell, Esquire" is identified as Thomason E.208[16].</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "find it amongst the speeches".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Correspondence.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157729:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE SPEECH OF Maſter Plydell, ESQUIRE.</head>
+            <opener>
+               <salute>Master Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have heard, ſince I had the ho<g ref="char:EOLhyphen"/>nour to ſit here, many grievan<g ref="char:EOLhyphen"/>ces preſented, and truly Sir, my heart bleeds within me when I thinke of them, eſpecially thoſe that concern Religion. But what ſhould I ſpeake of grievances concerning Religion, when Religion it ſelfe is be<g ref="char:EOLhyphen"/>come a grievance, nay the very Nurſe and Mother of all grievances, all ſcandalls, all reproaches?</p>
+            <p>
+               <q>Tantum Religio potuit ſuadere malorum.</q>
+            </p>
+            <p>SIR,<lb/>
+Not to trouble you with any long diſcourſe; if I have any ſight, That Bark both of Church and State hath a long time floated betwixt <hi>Sylla</hi> and <hi>Charybdis,</hi> Popery on the one ſide, and I know not what to call it on the other; in many reſpects both
+<pb facs="tcp:157729:2"/>
+               <!-- PDF PAGE 2 -->
+alike dangerous, unleſſ the Italian Proverbe may alter the Caſe; <hi>God defend me from my reputed friends, and I will defend my ſelfe from my profeſt enemies.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi>
+               <lb/>
+We are entruſted by God, the King, and the C<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>y, with the managing of this Bark, fraught w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the fortunes of three great Kingdomes. Now ſhould wee ſo decline the former Rocke, that wee d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh on the other ſide; I humbly offer it to this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, whether thee might not have juſt cauſe to ſay, ſhe had changed her Pilot, rather than her Condition; and only ſhifted places to find her ruine: For Sir, there is as much beyond Truth, as on this ſide it, and would we ſteere a right courſe we muſt be ſure to keepe the Channell, leſt we fall from one extreame to another, from the dotage of Superſtition to the frenzie of Prophaneneſſe, from bowing to Idols, to worſhip the Calves of our own imaginations.</p>
+            <p>
+               <hi>Sir,</hi> I beſeech you conſider what libellous Pam<g ref="char:EOLhyphen"/>phlets are now printed, what Sermons are preach<g ref="char:EOLhyphen"/>ed, not building hay and ſtubble, but utterly ſub<g ref="char:EOLhyphen"/>verting the foundations of Truth; What irreve<g ref="char:EOLhyphen"/>rence in Churches, what profanation of Gods Ser<g ref="char:EOLhyphen"/>vice, to the ſcandall of Chriſtianity, the reproach of Religion, and the intollerable griefe of all good men, of which I may take up the words of <hi>Petrus de Aliaco,</hi> to the Councel of Conſtance, <hi>Niſi celeriter fiat reformatio, audeo dicere; quod licet magna ſint que videmus, tamen in brevi incomparabilia major a vide<g ref="char:EOLhyphen"/>mus, &amp; poſt iſta tam horrenda major a alia audiemus.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> I take God to record I am no mans Advo<g ref="char:EOLhyphen"/>cate, no mans enemy, but a faithful lover of truth
+<pb facs="tcp:157729:2"/>
+               <!-- PDF PAGE 2 -->
+and peace, and a dutifull Son of our diſtreſſed Mo<g ref="char:EOLhyphen"/>ther the <hi>Church</hi> of <hi>England,</hi> in whoſe behalfe, and our own, my motion ſhall be ſhortly this. That the Miniſters petition, with ſo much of their Remon<g ref="char:EOLhyphen"/>ſtrance as hath been read, may be committed, and the reſt of it concerning matter of doctrine may be referred to ſome learned and approved Divines, as have ſpent their time in that noble ſtudy. For give me leave to tell you, there is a <hi>Vulgus</hi> among the <hi>Clergy,</hi> as among the Laity, <hi>Et in utraque nil modicum;</hi> and for theſe and all things which ſtrike at the root and branch as they pleaſe to call it, I ſhall humbly move, that we rather conſider how to ſatisfie the petitioners with ſome timely declaration from both Houſes, of the lawfulneſſe, and conveniency of Epiſcopall Government, derived from the Apo<g ref="char:EOLhyphen"/>ſtles, and ſo long eſtabliſhed in this Kingdome, ra<g ref="char:EOLhyphen"/>ther then to venture upon any alteration, the con<g ref="char:EOLhyphen"/>ſequence whereof, the wiſeſt man cannot foreſee, and in truth Sir, ſhould we once begin, for my own part, I know not how, or where we ſhould ſtay.</p>
+            <p>Nevertheleſſe, if any one doubt the ſuperiority of Biſhops over Prieſts and Deacons in Eccleſiaſti<g ref="char:EOLhyphen"/>call government, or in ordination, I ſhall be readie, whenſoever this Houſe ſhall command me to make it good, and I think by as pregnant teſtimonies, as we are able to prove the difference betwixt Cano<g ref="char:EOLhyphen"/>nicall and Apocryphall Scripture, the neceſſity of Infants baptiſme, or that the Apoſtles were the Au<g ref="char:EOLhyphen"/>thors of their owne Creed: But Sir, I hope you will ſave your ſelfe and me that labour, and rather de<g ref="char:EOLhyphen"/>viſe of ſome ſet way to binde up the Churches
+<pb facs="tcp:157729:3"/>
+               <!-- PDF PAGE 3 -->
+wounds, which God knowes are too wide already, that ſo the Clergy and Laity being made friends, and all reduced to the modell of our Anceſtors ſince the reformation, wee may all together pre<g ref="char:EOLhyphen"/>ſerve the unity of the Spirit, in the bond of peace; and ſo his Maieſty having graciouſly, and prudently expreſt himſelf, I am the more con<g ref="char:EOLhyphen"/>fident, we ſhal not only put an end to all miſ-intelli<g ref="char:EOLhyphen"/>gence betwixt Prince and People, but alſo highly advance the Proteſtant cauſe, and give a deadly blow to the See of Rome.</p>
+            <p>
+               <hi>Sir,</hi>
+               <lb/>
+               <hi>I</hi> humbly crave the favour of the Houſe, for God is my witnes,</p>
+            <p>
+               <q>Non potui aliter liberare animam meam.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
